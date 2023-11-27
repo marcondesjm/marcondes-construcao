@@ -35,13 +35,13 @@ function Footer() {
         </div>
         <div className='contatos-footer'>
           <h1>Contactos</h1>
-          <span><MdEmail className='ico-footer'/>jonata.wallace@gmail.com</span>
-          <span><MdPhoneIphone className='ico-footer'/>+351 927 082 012<i>*Chamada para a rede fixa nacional</i></span>
-          <span><MdLocationOn className='ico-footer'/>Lisboa - Portugal</span>
+          <span><MdEmail className='ico-footer'/>marcondes.machado.ti@gmail.com</span>
+          <span><MdPhoneIphone className='ico-footer'/>48 99602 9392<i>*Chamada para a rede fixa nacional</i></span>
+          <span><MdLocationOn className='ico-footer'/>Palhoça - SC / Brasil</span>
         </div>
       </div>
       <div className='rodape'>
-        <span>© 2023 JONATHAN WALLACE - Todos os direitos reservados - Desenvolvido por <a target="blank" href='https://www.linkedin.com/in/julio-a-f-mesquita/'>Júlio Adler</a></span>
+        <span>© 2023 MARCONDES J. MACHADO - Todos os direitos reservados - Desenvolvido por <a target="blank" href='https://www.linkedin.com/in/marcondes-dev'>Marcondes J. Machado</a></span>
       </div>
     </div>
   )

@@ -35,7 +35,7 @@ function AboutMe() {
               <div className='quadradinho q-amarelo'/>
             </div>
             <div className='txt-aboutme'>
-              <h2>Jonathan Wallace</h2>
+              <h2>Marcondes Machado</h2>
               <p>Nosso Diretor e Fundador, um empreendedor visionário, que sempre teve uma paixão pelo setor de manutenção. Começando sua jornada no Brasil, ele rapidamente se destacou pelo seu trabalho de qualidade e dedicação, conquistando sua reputação no mercado.
               <br/>
               <br/>

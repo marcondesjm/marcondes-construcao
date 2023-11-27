@@ -57,7 +57,7 @@ function CardServices({ album, title, description, cn, idN, servList }) {
         </div>
         <div>
           <Button variant="outline-primary" size="sm"
-            href='https://api.whatsapp.com/send?phone=351927082012&text=Ol%C3%A1,%20gostaria%20de%20solicitar%20um%20or%C3%A7amento'
+            href='https://api.whatsapp.com/send?phone=48996029392&text=Ol%C3%A1,%20gostaria%20de%20solicitar%20um%20or%C3%A7amento'
             target='blank'
           >
             Contrate Agora <BsArrowRight className='seta'/>

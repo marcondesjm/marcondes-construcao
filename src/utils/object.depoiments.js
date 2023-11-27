@@ -15,14 +15,14 @@ const depoiments = [
     img: img_bancada,
     title: 'Bancada Cozinha',
     cliente: 'Cristina Ferreira',
-    depoiment: 'Recentemente, contratei a Jonathan Manutenção para instalar uma bancada de cozinha em minha casa e posso dizer que fiquei extremamente satisfeita com o resultado. A equipe da Jonathan Manutenção foi muito atenciosa e profissional desde o início, me ajudando a escolher o material mais adequado e a fazer o projeto da bancada.'
+    depoiment: 'Recentemente, contratei a Macondes Manutenção para instalar uma bancada de cozinha em minha casa e posso dizer que fiquei extremamente satisfeita com o resultado. A equipe da Jonathan Manutenção foi muito atenciosa e profissional desde o início, me ajudando a escolher o material mais adequado e a fazer o projeto da bancada.'
   },
   {
     id: 2,
     img: img_painel,
     title: 'Painel Ripado',
     cliente: 'André Guedes',
-    depoiment: 'A instalação foi realizada com muito cuidado e habilidade, e o resultado final foi simplesmente incrível. O painel de madeira adicionou uma sensação acolhedora e elegante à minha sala de estar, e fiquei extremamente satisfeito com a qualidade e atenção aos detalhes da equipe da Jonathan Manutenção.'
+    depoiment: 'A instalação foi realizada com muito cuidado e habilidade, e o resultado final foi simplesmente incrível. O painel de madeira adicionou uma sensação acolhedora e elegante à minha sala de estar, e fiquei extremamente satisfeito com a qualidade e atenção aos detalhes da equipe da Marcondes Manutenção.'
   },
 ];
 
