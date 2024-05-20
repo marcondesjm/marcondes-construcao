@@ -21,8 +21,8 @@ function Home() {
       <Header
         bg={ bgHeaderHome }
         altura={ 90 }
-        title={ 'MANUTENÇÃO' }
-        subtitle={ 'Residencial e Comercial | Serviços de Urgência' }
+        title={ 'Serviços de reparos' }
+        subtitle={ 'Diagnosticaremos qualquer problema | Serviços de Urgência' }
         corTitle={ 'c-b' }
         corSubtitle={ 'c-b' }
       />

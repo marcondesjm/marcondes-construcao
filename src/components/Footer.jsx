@@ -16,7 +16,7 @@ function Footer() {
         <div className='about-footer'>
           <h1>Sobre Nós</h1>
           <img alt='logo-jonathan-branca' src={ logo_branca }/>
-          <p>Soluções completas em manutenção geral, incluindo hidráulica, remodelação, elétrica e serviços em altura.</p>
+          <p>Soluções completas em manutenção geral, serviços de reparos em laptop, impressora, pc, smartphone e drones. Também criamos sites profissionais</p>
         </div>
         <div className='links-footer'>
           <h1>Nossos Serviços</h1>
@@ -36,12 +36,12 @@ function Footer() {
         <div className='contatos-footer'>
           <h1>Contactos</h1>
           <span><MdEmail className='ico-footer'/>marcondes.machado.ti@gmail.com</span>
-          <span><MdPhoneIphone className='ico-footer'/>48 99602 9392<i>*Chamada para a rede fixa nacional</i></span>
-          <span><MdLocationOn className='ico-footer'/>Palhoça - SC / Brasil</span>
+          <span><MdPhoneIphone className='ico-footer'/>48 99602 9392<i>*Supoerte WhatsApp 24h</i></span>
+          <span><MdLocationOn className='ico-footer'/>São José - SC / Brasil</span>
         </div>
       </div>
       <div className='rodape'>
-        <span>© 2023 MARCONDES J. MACHADO - Todos os direitos reservados - Desenvolvido por <a target="blank" href='https://www.linkedin.com/in/marcondes-dev'>Marcondes J. Machado</a></span>
+        <span>© 2024 HomeTech - Todos os direitos reservados - Desenvolvido por <a target="blank" href='https://www.linkedin.com/in/marcondes-dev'>Marcondes J. Machado</a></span>
       </div>
     </div>
   )

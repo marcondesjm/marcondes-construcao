@@ -13,7 +13,7 @@ function FaleConosco() {
       }}
     >
       <h1>Confie no melhor <strong>Parceiro</strong><br/>
-      para <strong>Sua</strong> próxima <strong>Obra!</strong></h1>
+      para <strong>Sua</strong>  <strong>Empresa!</strong></h1>
       <Button
         className='btn-fale-conosco'
         variant="info"
