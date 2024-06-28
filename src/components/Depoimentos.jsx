@@ -2,8 +2,7 @@ import React, { useState, useEffect } from 'react';
 
 import { BsFillArrowLeftCircleFill } from "react-icons/bs";
 import { BsFillArrowRightCircleFill } from "react-icons/bs";
-import { FaQuoteLeft } from "react-icons/fa";
-
+import { FaQuoteLeft } from "react-icons/fa"
 import depoiments from '../utils/object.depoiments';
 
 function Depoimentos() {

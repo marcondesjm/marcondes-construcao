@@ -16,7 +16,7 @@ function Footer() {
         <div className='about-footer'>
           <h1>Sobre Nós</h1>
           <img alt='logo-jonathan-branca' src={ logo_branca }/>
-          <p>Soluções completas em manutenção geral, serviços de reparos em laptop, impressora, pc, smartphone e drones. Também criamos sites profissionais</p>
+          <p>Soluções completas em Comunicação visual,há mais de 10 anos trazendo soluções personalizadas e criativas às empresas e negócios da Grande Florianópolis.</p>
         </div>
         <div className='links-footer'>
           <h1>Nossos Serviços</h1>
@@ -35,8 +35,8 @@ function Footer() {
         </div>
         <div className='contatos-footer'>
           <h1>Contactos</h1>
-          <span><MdEmail className='ico-footer'/>marcondes.machado.ti@gmail.com</span>
-          <span><MdPhoneIphone className='ico-footer'/>48 99602 9392<i>*Supoerte WhatsApp 24h</i></span>
+          <span><MdEmail className='ico-footer'/>casadostoldosvendas10@hotmail.com</span>
+          <span><MdPhoneIphone className='ico-footer'/>48 9 9617-8175<i>*Suporte WhatsApp 24h</i></span>
           <span><MdLocationOn className='ico-footer'/>São José - SC / Brasil</span>
         </div>
       </div>

@@ -35,11 +35,11 @@ function AboutMe() {
               <div className='quadradinho q-amarelo'/>
             </div>
             <div className='txt-aboutme'>
-              <h2>HomeTech</h2>
-              <p>Nosso Diretor e Fundador, Marcondes Machado um empreendedor visionário, que sempre teve uma paixão pelo setor de manutenção. Começando sua jornada no Brasil, ele rapidamente se destacou pelo seu trabalho de qualidade e dedicação, conquistando sua reputação no mercado.
+              <h2>Está procurando por toldo?</h2>
+              <p>Art Toldos - Atuando no segmento de toldos, estruturas metálicas e serralheria em geral a empresa vem conquistando seus clientes pela ótima qualidade dos produtos com o melhor custo/beneficio..
               <br/>
               <br/>
-              Com a sua visão de oferecer soluções completas em manutenção geral. Com sua equipe altamente capacitada e comprometida, nossa empresa tem se tornado cada vez mais reconhecida no mercado pelo sua dedicação e excelente trabalho.
+              Com a sua visão de oferecer soluções completas em intalação, fabricação e manutenção em geral de toldos. Com sua equipe altamente capacitada e comprometida, nossa empresa tem se tornado cada vez mais reconhecida no mercado pelo sua dedicação e excelente trabalho.
               </p>
               <Button
                 as={ Link } to={'/sobre'}

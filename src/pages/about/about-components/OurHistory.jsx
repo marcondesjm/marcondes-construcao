@@ -8,8 +8,7 @@ function OurHistory() {
       <h2>Nossa História</h2>
       <hr />
       <p>
-        Possuímos soluções completas e experiência comprovada no mercado de
-        manutenção geral, serviços de repareos em laptop, impressora, pc, smartphone e drones. Também criamos sites profissionais
+      Comunicação visual é o foco da Art Toldos, que há mais de 10 anos traz soluções personalizadas e criativas às empresas e negócios na Grande Florianópolis.
       </p>
       <div className="card-aboutUs">
         <div className="img-van" style={{ background: `url(${van})` }} />
@@ -17,32 +16,27 @@ function OurHistory() {
           <h1>Nós Somos Profissionais</h1>
           <hr />
           <p className="txt-desktop">
-            A HomeTech nasceu em São José, Santa Catarina, no Brasil
-            em 2012 com o objetivo de oferecer soluções completas em manutenção
-            geral. Hoje, a HomeTech é reconhecida
-            por seus serviços de alta qualidade, agilidade e proficiência,
-            atendendo a diversas áreas, serviços de repareos em laptop, impressora, pc, smartphone e drones. Também criamos sites profissionais. Nosso compromisso com a excelência é
-            o que garante a satisfação de seus clientes.
+            A Art Toldos Atenta as novidades do mercado,utiliza as mais modernas técnicas de produção e matéria-prima, afim de oferecer um resultado final excelente.
+
+Todos os profissionais que integram a equipe da Art Toldos são altamente qualificados e treinados para a execução de todo o processo, desde a criação do projeto, impressão, fabricação e instalação.
+
+Você também conta com atendimento e suporte para a orientação de materiais e dúvidas quanto ao projeto a ser executado.
           </p>
 
           <p className="txt-tablet">
-          A HomeTech nasceu em São José, Santa Catarina, no Brasil
-            em 2012 com o objetivo de oferecer soluções completas em manutenção
-            geral. Hoje, a HomeTech é reconhecida
-            por seus serviços de alta qualidade, agilidade e proficiência,
-            atendendo a diversas áreas, serviços de repareos em laptop, impressora, pc, smartphone e drones. Também criamos sites profissionais. Nosso compromisso com a excelência é
-            o que garante a satisfação de seus clientes.
+          A Art Toldos Atenta as novidades do mercado,utiliza as mais modernas técnicas de produção e matéria-prima, afim de oferecer um resultado final excelente.
+
+Todos os profissionais que integram a equipe da Art Toldos são altamente qualificados e treinados para a execução de todo o processo, desde a criação do projeto, impressão, fabricação e instalação.
+
+Você também conta com atendimento e suporte para a orientação de materiais e dúvidas quanto ao projeto a ser executado.
           </p>
 
           <p className="txt-mobile">
-          A HomeTech nasceu em São José, Santa Catarina, no Brasil
-            em 2012 com o objetivo de oferecer soluções completas em manutenção
-            geral. Com anos de experiência e dedicação, a empresa se destacou no
-            mercado brasileiro e teve a oportunidade de expandir suas atividades
-            para todo o Brasil. Hoje, a HomeTech é reconhecida
-            por seus serviços de alta qualidade, agilidade e proficiência,
-            atendendo a diversas áreas, serviços de repareos em laptop, impressora, pc, smartphone e drones. Também criamos sites profissionais. Seu compromisso com a excelência é
-            o que garante a satisfação de seus clientes.
+          A Art Toldos Atenta as novidades do mercado,utiliza as mais modernas técnicas de produção e matéria-prima, afim de oferecer um resultado final excelente.
+
+Todos os profissionais que integram a equipe da Art Toldos são altamente qualificados e treinados para a execução de todo o processo, desde a criação do projeto, impressão, fabricação e instalação.
+
+Você também conta com atendimento e suporte para a orientação de materiais e dúvidas quanto ao projeto a ser executado.
           </p>
         </div>
       </div>

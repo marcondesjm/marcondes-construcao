@@ -8,7 +8,7 @@ function TitleServices() {
         Começa <strong>aqui!</strong>
       </h2>
       <p>
-        A nossa empresa tem o orgulho de oferecer soluções completas em manutenção geral, reparos em laptop, impressora, pc, smartphone e drones. Também criamos sites profissionais e comprometida em fornecer soluções de alta qualidade e eficiência para todas as suas necessidades. 
+        A nossa empresa Atenta as novidades do mercado, a Art Toldos  utiliza as mais modernas técnicas de produção e matéria-prima, afim de oferecer um resultado final excelente. 
         <br/>
         <br/>
         Confie na nossa expertise para transformar os seus projetos em realidade.

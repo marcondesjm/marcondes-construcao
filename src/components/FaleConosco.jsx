@@ -12,12 +12,12 @@ function FaleConosco() {
         background: `url(${ bg_fale_conosco })`
       }}
     >
-      <h1>Confie no melhor <strong>Parceiro</strong><br/>
-      para <strong>Sua</strong>  <strong>Empresa!</strong></h1>
+      <h1>Gostou dos nossos <strong>Produtos?</strong><br/>
+      Orçamento sem compromisso    <strong></strong>  </h1>
       <Button
         className='btn-fale-conosco'
         variant="info"
-        href='https://api.whatsapp.com/send?phone=48996029392&text=Ol%C3%A1,%20gostaria%20de%20solicitar%20um%20or%C3%A7amento'
+        href='https://api.whatsapp.com/send?phone=48996178175&text=Ol%C3%A1,%20gostaria%20de%20solicitar%20um%20or%C3%A7amento'
         target='blank'
       >Fale Conosco <BsArrowRight className='seta'/></Button>
     </div>

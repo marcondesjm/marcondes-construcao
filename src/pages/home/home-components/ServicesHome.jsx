@@ -7,7 +7,7 @@ function ServicesHome() {
   return (
     <div className="services-home">
       <h2>Nossos Serviços</h2>
-      <p>Serviços de reparos</p>
+      <p>Decoração e Proteção</p>
       <div className="container-cards-serv-home">
         {services.map((serv) => (
           <div key={`servhome${serv.id}`}>

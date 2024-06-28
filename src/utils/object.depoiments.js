@@ -9,7 +9,7 @@ const depoiments = [
     title: "Restaurante da Nona",
     cliente: "Restaurante",
     depoiment:
-      "A equipe de instalação chegou pontualmente no dia marcado e, com muito cuidado e habilidade,organizaram o CFTV no rack perfeitamente. Fiquei impressionado com a atenção aos detalhes e a capacidade deles em entregar um trabalho de qualidade excepcional.",
+      "A equipe de instalação chegou pontualmente no dia marcado e, com muito cuidado e habilidade. Fiquei impressionado com a atenção aos detalhes e a capacidade deles em entregar um trabalho de qualidade excepcional.",
   },
   {
     id: 1,
@@ -17,7 +17,7 @@ const depoiments = [
     title: "Empreiteira Silva",
     cliente: "Cristina Ferreira",
     depoiment:
-      "Recentemente, contratei a HomeTech Manutenção para organizar os cabos de rede e indentificar no Rack e posso dizer que fiquei extremamente satisfeita com o resultado. A equipe da HomeTech Manutenção foi muito atenciosa e profissional desde o início, me ajudando a escolher o material mais adequado.",
+      "Um bom trabalho faz total diferença, coloquei a fachada nova aqui na minha barbearia e o resultado foi impressionante.Eu gosto muito dessa empresa, pois deixaram linda a minha loja. Extremamente profissionais.",
   },
   {
     id: 2,
@@ -25,7 +25,7 @@ const depoiments = [
     title: "Cliente",
     cliente: "André Guedes",
     depoiment:
-      "Precisei de assistência no S9 e foram muito atenciosos. Recomendo demais, resolveram em 5 minutos fazendo limpeza na saída do fone.A equipe da HomeTech Manutenção foi muito atenciosa e profissional desde o início, me ajudando a escolher o material mais adequado.",
+      "Esses caras são  os melhores sem duvidas Atendimento excelente, entrega no prazo combinado e tudo muito bem feito.Sua satisfação é a nossa prioridade.Transforme sua visão em realidade com a Art Toldos. ",
   },
 ];
 
